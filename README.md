@@ -16,7 +16,7 @@
 • Ela/dela
 
 
-## Tecnologias:
+## Linguagens:
 
 <div align="center">
 
