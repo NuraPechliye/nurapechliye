@@ -42,7 +42,7 @@
 
 | Projeto | Descrição |
 |----------|------------|
-| 📚 Sistema Biblioteca | Sistema de gerenciamento bibliotecário com cadastro, edição, exclusão e consulta de dados. |
+| 📚 Sistema Biblioteca (CRUD)| Sistema de gerenciamento bibliotecário com cadastro, edição, exclusão e consulta de dados. |
 | 🧑‍⚕️ <a href="https://nurapechliye.github.io/MedChat-UsingPWA/">Chat Médico (MEDCHAT)</a>| Projeto escolar de chatbot de conversa, que analisa sintomas básicos e responde de maneira objetiva. |
 | 🗺️ <a href="https://nurapechliye.github.io/QuizMap/">Jogo de Mapa </a>| Quiz de adivinhação de continentes, usando Java Script.|
 
