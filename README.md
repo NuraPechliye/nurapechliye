@@ -42,7 +42,7 @@
 |----------|------------|
 | 📚 Sistema Biblioteca | CRUD completo em PHP + MySQL |
 | 🧑‍⚕️ Chat Médico (MEDCHAT) | Projeto Escolar |
-| 🗺️ Site de Mapa| Usando PWA Leaflet |
+| 🗺️ Jogo de Mapa | Quiz Usando Java Script|
 
 
 ## Visitantes:
