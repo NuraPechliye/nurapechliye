@@ -38,11 +38,15 @@
 
 ## Projetos em Destaque:
 
+<div align="center">
+
 | Projeto | Descrição |
 |----------|------------|
 | 📚 Sistema Biblioteca | CRUD completo em PHP + MySQL |
 | 🧑‍⚕️ Chat Médico (MEDCHAT) | Projeto Escolar |
 | 🗺️ Jogo de Mapa | Quiz Usando Java Script|
+
+</div>
 
 
 ## Visitantes:
