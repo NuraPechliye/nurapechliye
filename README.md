@@ -43,8 +43,8 @@
 | Projeto | Descrição |
 |----------|------------|
 | 📚 Sistema Biblioteca | CRUD completo em PHP + MySQL |
-| 🧑‍⚕️ Chat Médico (MEDCHAT) | Projeto Escolar |
-| 🗺️ Jogo de Mapa | Quiz Usando Java Script|
+| 🧑‍⚕️ Chat Médico (MEDCHAT) <a href="https://nurapechliye.github.io/MedChat-UsingPWA/"/>| Projeto Escolar |
+| 🗺️ Jogo de Mapa <a href="https://nurapechliye.github.io/QuizMap/"/>| Quiz Usando Java Script|
 
 </div>
 
