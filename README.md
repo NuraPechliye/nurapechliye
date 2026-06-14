@@ -9,7 +9,7 @@
 </div>
 ⭐ Estudante de Desenvolvimento de Sistemas <br>
 ⭐ Estou aprendendo PHP, Java Script e Laravel <br>
-⭐ Contate-me no e-mail: pechliyenura@gmail.com ou secundarianura@gmail.com <br>
+⭐ Contate-me pelos e-mails: pechliyenura@gmail.com ou secundarianura@gmail.com <br>
 ⭐ Ela/dela <br>
 
 ## Tecnologias:
