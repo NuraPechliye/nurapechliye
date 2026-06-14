@@ -4,7 +4,7 @@
 
 # Oi, eu sou Nura Pechliye! ⭐
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=300&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1200&lines=Programadora+e+hacker+%C3%A9tica+em+forma%C3%A7%C3%A3o;PHP+%7C+MYSQL+%7C+BOOTSTRAP+%7C+JAVA+SCRIPT+%7C+JAVA+%7C+JSON;Criando+projetos+e+aprendendo+todos+os+dias;Bem+vindos(as)+ao+meu+perfiiil!+%E2%AD%90)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=300&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1200&lines=Programadora+e+hacker+%C3%A9tica+em+forma%C3%A7%C3%A3o;PHP+%7C+MYSQL+%7C+BOOTSTRAP+%7C+JAVA+SCRIPT+%7C+JAVA+%7C+JSON;Criando+projetos+e+aprendendo+todos+os+dias;Bem+vindos(as)+ao+meu+perfil!+%E2%AD%90)
 
 </div>
 
