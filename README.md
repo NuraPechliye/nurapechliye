@@ -11,7 +11,7 @@
 <img align="right" width="120" src="https://github.com/user-attachments/assets/b3aa9e84-835a-403c-8a4b-52a885e550db">
 
 • Estudante de Desenvolvimento de Sistemas  
-• Estou aprendendo PHP, JavaScript e Laravel  
+• Estou aprendendo PHP, JavaScript e Unity (C# e C++)  
 • Contate-me pelos e-mails: pechliyenura@gmail.com ou secundarianura@gmail.com  
 • Ela/dela
 
