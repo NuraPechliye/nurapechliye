@@ -25,6 +25,7 @@
 </div>
 
 ## Estatísticas:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurapechliye&show_icons=true&theme=radical)
 
 ## Projetos em Destaque:
 
