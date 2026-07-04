@@ -24,10 +24,6 @@
 
 </div>
 
-## Estatísticas:
-<img src="https://raw.githubusercontent.com/NuraPechliye/nurapechliye/stats-output/stats.svg" height="200" width="400" alt="stats graph" />
-<img src="https://raw.githubusercontent.com/NuraPechliye/nurapechliye/languages-output/languages.svg" height="200" width="400" alt="languages graph" />
-
 ## Projetos em Destaque:
 
 <div align="center">
