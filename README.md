@@ -25,10 +25,6 @@
 </div>
 
 ## Estatísticas:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Batistta/Batistta/stats-output/stats.svg" height="200" width="400" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Batistta/Batistta/languages-output/languages.svg" height="200" width="400" alt="languages graph" />
-</div>
 
 ## Projetos em Destaque:
 
