@@ -12,7 +12,6 @@
 
 • Estudante de Desenvolvimento de Sistemas  
 • Estou aprendendo PHP, JavaScript e Unity (C# e C++)  
-• Contate-me pelos e-mails: pechliyenura@gmail.com ou secundarianura@gmail.com  
 • Ela/dela
 
 
